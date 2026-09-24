@@ -1,55 +1,52 @@
-👋 Привіт! Я Fullstack Developer
+ Привіт! Я Fullstack Developer
+ 
+💻 Створюю сучасні веб- та мобільні застосунки, поєднуючи надійний бекенд на Node.js та NestJS із функціональним фронтендом на React, Next.js та React Native.
+Маю досвід проєктування масштабованої архітектури, розробки REST API, роботи з реляційними та NoSQL базами даних, інтеграції realtime-відеозв’язку та побудови CI/CD-процесів.
+Моя мета — писати чистий, підтримуваний та продуктивний код.
 
-💻 Розробляю сучасні веб-застосунки, поєднуючи потужний **бекенд** на Node.js з динамічним **фронтендом** на React.  
-Маю досвід у створенні REST API, інтеграції сторонніх сервісів, реалізації авторизації та розгортанні проєктів у продакшн.  
-Моя мета — писати чистий, підтримуваний та масштабований код.
+🛠 Мої технічні навички:
 
-🛠 Мої технічні навички
+Frontend & Mobile
+⚬	JavaScript (ES6+), TypeScript
+⚬	React.js, Next.js, React Native (Android / iOS)
+⚬	Redux Toolkit, React Router, Context API
+⚬	Tailwind CSS, Styled Components, SASS, Material UI
+⚬	Адаптивна та кросбраузерна верстка, optical/lazy loading
+⚬	Axios, Formik, Yup
 
-**Frontend**
-- HTML5, CSS3, SASS, Tailwind CSS, Material UI
-- JavaScript (ES6+), TypeScript
-- React.js, React Router v6, Redux Toolkit
-- Адаптивна та кросбраузерна верстка
-- Оптимізація продуктивності та lazy loading
-- Axios, Formik, Yup (форми та валідація)
+Backend & Architecture
+⚬	Node.js, Express.js, NestJS
+⚬	REST API (CRUD, пагінація, фільтрація, валідація, middleware)
+⚬	JWT, сесії/cookies, Google OAuth 2.0
+⚬	Realtime комунікація: WebRTC / Video SDK інтеграції
+⚬	Multer, Cloudinary, Nodemailer / SMTP
 
-**Backend**
-- Node.js, Express.js
-- REST API (CRUD, пагінація, сортування, фільтрація, пошук)
-- JWT (зберігання в cookies), Google OAuth 2.0
-- Multer та Cloudinary для роботи з медіафайлами
-- Nodemailer та SMTP для email-сповіщень
-- Логування, обробка помилок та middleware
+Бази даних & ORM
+⚬	PostgreSQL, Microsoft SQL Server, MongoDB, SQLite
+⚬	Prisma ORM, Mongoose
+⚬	Проєктування реляційних схем, зв’язки, транзакції, індексація та оптимізація запитів
 
-**Бази даних**
-- MongoDB, Mongoose
-- Проєктування та оптимізація схем
-- Агрегації та індексація
+Інтеграції та спеціалізовані SDK
+⚬	Відео- та аудіостримінг: Zoom Video SDK, Vonage Video API (OpenTok)
+⚬	Google OAuth, сторонні REST API, поштові сервіси
 
-**Інтеграції**
-- Google OAuth
-- Email підтвердження акаунту та відновлення паролю
-- Робота з зовнішніми REST API
-
-**DevOps та інструменти**
-- Git, GitHub, Git Flow
-- Postman, Swagger / OpenAPI
-- CI/CD (GitHub Actions)
-- Docker (базові навички)
-- Vercel, Render, Railway, Heroku
+DevOps, Desktop та інструменти
+⚬	Git, GitHub, GitLab, Git Flow
+⚬	Docker, Docker Compose
+⚬	CI/CD (GitHub Actions)
+⚬	Десктоп-розробка: Electron
+⚬	Vercel, Render, Railway
+⚬	Postman, Swagger / OpenAPI
 
 🌟 Що я можу реалізувати
-- Повноцінний **REST API** з авторизацією та документацією
-- SPA з **React Router**, **Redux** та приватними маршрутами
-- **Google OAuth** та стандартну авторизацію через email+пароль
-- Пошук, фільтри, сортування та пагінацію даних
-- Завантаження та обробку зображень, збереження у хмарі
-- Email-сповіщення, підтвердження акаунту
-- Адаптивні UI з **Tailwind** та **Material UI**
-- Розгортання проєкту у продакшн з CI/CD
 
-
+⚬	Повноцінний Fullstack веб-застосунок на Next.js / NestJS або React / Node.js
+⚬	Кросплатформний мобільний застосунок на React Native
+⚬	Високонадійний бекенд із реляційною БД (PostgreSQL / SQL Server) через Prisma
+⚬	Інтеграцію відеодзвінків та кімнат для конференцій
+⚬	Авторизацію через JWT та OAuth 2.0
+⚬	Налаштування контейнеризації через Docker та автоматичного деплою через GitHub Actions
+⚬	Десктопні рішення на базі Electron
 
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/lukianov-illia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Lukjanovilly@gmail.com) 
@@ -62,13 +59,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=illia-lukianov&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=illia-lukianov&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=illia-lukianov&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=illia-lukianov&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=illia-lukianov&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=illia-lukianov&icon=1&color=1)](https://visitcount.itsvg.in)
